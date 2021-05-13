@@ -1,3 +1,9 @@
+:: AddCredentials.cmd - Par Tlem33
+:: Ce batch permet d'ajouter les informations d'identification de
+:: l'utilisateur spécifié sur un poste client.
+::
+:: Lire le fichier README.md pour plus d'informations.
+::
 :: Version 1.1 du 13/12/2020 - Par Tlem33  
 :: https://github.com/Tlem33/AddCredentials
 ::
