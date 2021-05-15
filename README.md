@@ -3,12 +3,14 @@
 Version 1.1 du 13/12/2020 - Par Tlem33  
 https://github.com/Tlem33/AddCredentials
 
+---
 
 ## DESCRIPTION :
 
 AddCredentials.cmd est un utilitaire qui permet d'ajouter rapidement des informations d'identification.  
 Il permet aussi le contrôle rapide des informations mémorisées dans le système.  
 
+---
 
 ## UTILISATION :
 
@@ -41,23 +43,21 @@ Lance l'utilitaire Windows de gestion des informations d'identification.
 #### Choix 5 :
 Pour quitter le batch
 
-*** 
+--- 
 
 ## SYSTEME(S) :
 
-Testé sous :
+     Windows 7
+     Windows 8  
+     Windows 10  
 
-            - Windows 7
-            - Windows 8  
-            - Windows 10  
-
-***
+---
 
 ## LICENCE :
 
 Licence [MIT](https://fr.wikipedia.org/wiki/Licence_MIT)  
 
-Droit d'auteur (c) 2020 Tlem33  
+Droit d'auteur (c) 2021 Tlem33  
 
 Une autorisation est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel  
 et des fichiers de documentation associés (le «logiciel»), afin de traiter le logiciel sans restriction,  
@@ -90,3 +90,4 @@ INDIRECT AVEC L’UTILISATION DE CE LOGICIEL.
         - Ajout du lien vers le dépot Github dans le batch et README.md
         - Ajout d'une option pour rajouter d'autres informations d'identification.
         
+---
